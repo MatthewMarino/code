@@ -129,7 +129,7 @@ function calculate()
 // Change the sign of the current input
 function changeSign()
     {
-    currentInput = currentInput - 1
+    currentInput = currentInput * 1
     displayCurrentInput();
     }
 
